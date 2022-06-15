@@ -1,0 +1,37 @@
+.price{
+    width: 700px;
+    color: white;
+    position: absolute;
+    bottom: 370px;
+    left: 20px;
+}
+
+#location{
+    padding: 10px;
+    border-radius: 8px;
+    border: 2px solid darkblue;
+
+}
+#type{
+    padding: 10px;
+    border-radius: 8px;
+    border: 2px solid darkblue;
+
+}
+#budget{
+    padding: 10px;
+    border-radius: 8px;
+    border: 2px solid darkblue;
+}
+
+#search2{
+    padding: 10px;
+    /* padding-right: 80px; */
+    border-radius: 8px;
+    background-color: darkblue;
+    color: white;
+    position: absolute;
+    top: 130px;
+    left: 203px;
+    width: 180px;
+}

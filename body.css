@@ -1,0 +1,63 @@
+.content{
+    position: absolute;
+    top: 130px;
+    left: 60px;
+    color: white;
+    width: 450px;
+
+}
+
+h1{
+    font-size: 35px;
+    
+}
+
+#search{
+    padding: 15px;
+    padding-right: 70px;
+    border-radius: 10px;
+    border: 3px solid darkblue;
+}
+
+#button{
+    position: relative;
+    left: -70px;
+    bottom: 0px;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: darkblue;
+    color: white;
+}
+
+.results{
+position: absolute;
+top: 350px;
+left: 50px;
+color: darkblue;
+word-spacing: 50px;
+font-size: 30px;
+}
+
+.awards{
+    top: 100px;
+    font-size: 18px;
+    color: darkblue;
+}
+
+#Premium{
+    position: absolute;
+    top: 400px;
+    left: 25px;
+}
+
+#Happy{
+    position: absolute;
+    top: 400px;
+    left: 165px;
+}
+
+#Award{
+    position: absolute;
+    top: 400px;
+    left: 310px;
+}
